@@ -1,4 +1,5 @@
 logs/
+lock/
 cache/
 npm-debug.log
 yarn-error.log
